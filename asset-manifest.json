@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Solrak97.github.io/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Solrak97.github.io/static/js/main.71b5c4e9.chunk.js",
+    "main.js.map": "/Solrak97.github.io/static/js/main.71b5c4e9.chunk.js.map",
+    "runtime-main.js": "/Solrak97.github.io/static/js/runtime-main.b3987204.js",
+    "runtime-main.js.map": "/Solrak97.github.io/static/js/runtime-main.b3987204.js.map",
+    "static/js/2.5c505be9.chunk.js": "/Solrak97.github.io/static/js/2.5c505be9.chunk.js",
+    "static/js/2.5c505be9.chunk.js.map": "/Solrak97.github.io/static/js/2.5c505be9.chunk.js.map",
+    "static/js/3.4c3d08b4.chunk.js": "/Solrak97.github.io/static/js/3.4c3d08b4.chunk.js",
+    "static/js/3.4c3d08b4.chunk.js.map": "/Solrak97.github.io/static/js/3.4c3d08b4.chunk.js.map",
+    "index.html": "/Solrak97.github.io/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Solrak97.github.io/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5c505be9.chunk.js.LICENSE.txt": "/Solrak97.github.io/static/js/2.5c505be9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Solrak97.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3987204.js",
+    "static/js/2.5c505be9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.71b5c4e9.chunk.js"
+  ]
+}
