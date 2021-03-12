@@ -1,0 +1,16 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  scale: 70%;
+}
+
+.mucho-texto{
+ text-align: center;
+ color: #FF652F 
+}
+
+.section {
+  text-align: center;
+}
