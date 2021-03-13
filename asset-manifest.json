@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/Solrak97.github.io/static/css/main.9ce04b09.chunk.css",
-    "main.js": "/Solrak97.github.io/static/js/main.c574d3de.chunk.js",
-    "main.js.map": "/Solrak97.github.io/static/js/main.c574d3de.chunk.js.map",
-    "runtime-main.js": "/Solrak97.github.io/static/js/runtime-main.9dbdbe90.js",
-    "runtime-main.js.map": "/Solrak97.github.io/static/js/runtime-main.9dbdbe90.js.map",
+    "main.css": "/Solrak97.github.io/static/css/main.ab99d4f5.chunk.css",
+    "main.js": "/Solrak97.github.io/static/js/main.207ef93d.chunk.js",
+    "main.js.map": "/Solrak97.github.io/static/js/main.207ef93d.chunk.js.map",
+    "runtime-main.js": "/Solrak97.github.io/static/js/runtime-main.9226567f.js",
+    "runtime-main.js.map": "/Solrak97.github.io/static/js/runtime-main.9226567f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Solrak97.github.io/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6f169894.chunk.js": "/Solrak97.github.io/static/js/2.6f169894.chunk.js",
-    "static/js/2.6f169894.chunk.js.map": "/Solrak97.github.io/static/js/2.6f169894.chunk.js.map",
-    "static/js/3.ec5312fb.chunk.js": "/Solrak97.github.io/static/js/3.ec5312fb.chunk.js",
-    "static/js/3.ec5312fb.chunk.js.map": "/Solrak97.github.io/static/js/3.ec5312fb.chunk.js.map",
+    "static/js/2.8e9f84c0.chunk.js": "/Solrak97.github.io/static/js/2.8e9f84c0.chunk.js",
+    "static/js/2.8e9f84c0.chunk.js.map": "/Solrak97.github.io/static/js/2.8e9f84c0.chunk.js.map",
+    "static/js/3.a410f939.chunk.js": "/Solrak97.github.io/static/js/3.a410f939.chunk.js",
+    "static/js/3.a410f939.chunk.js.map": "/Solrak97.github.io/static/js/3.a410f939.chunk.js.map",
     "index.html": "/Solrak97.github.io/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Solrak97.github.io/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.9ce04b09.chunk.css.map": "/Solrak97.github.io/static/css/main.9ce04b09.chunk.css.map",
-    "static/js/2.6f169894.chunk.js.LICENSE.txt": "/Solrak97.github.io/static/js/2.6f169894.chunk.js.LICENSE.txt",
-    "static/media/building.3fbad16b.png": "/Solrak97.github.io/static/media/building.3fbad16b.png"
+    "static/css/main.ab99d4f5.chunk.css.map": "/Solrak97.github.io/static/css/main.ab99d4f5.chunk.css.map",
+    "static/js/2.8e9f84c0.chunk.js.LICENSE.txt": "/Solrak97.github.io/static/js/2.8e9f84c0.chunk.js.LICENSE.txt",
+    "static/media/building.3fbad16b.png": "/Solrak97.github.io/static/media/building.3fbad16b.png",
+    "static/media/solrak.93c793d0.jpg": "/Solrak97.github.io/static/media/solrak.93c793d0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9dbdbe90.js",
+    "static/js/runtime-main.9226567f.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.6f169894.chunk.js",
-    "static/css/main.9ce04b09.chunk.css",
-    "static/js/main.c574d3de.chunk.js"
+    "static/js/2.8e9f84c0.chunk.js",
+    "static/css/main.ab99d4f5.chunk.css",
+    "static/js/main.207ef93d.chunk.js"
   ]
 }
