@@ -1,4 +1,8 @@
-img {
+body {
+  background-color: #8B939C;
+}
+
+.center-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -8,9 +12,16 @@ img {
 
 .mucho-texto{
  text-align: center;
- color: #FF652F 
+ color: #CF6766 
 }
 
-.section {
+.subtitle {
+  color: white;
+  text-decoration: underline;
   text-align: center;
+}
+
+.section-container {
+  margin-top: 0%;
+  margin-bottom: 0%;
 }
