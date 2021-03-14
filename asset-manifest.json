@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Solrak97.github.io/static/css/main.d0b244e3.chunk.css",
-    "main.js": "/Solrak97.github.io/static/js/main.36705d21.chunk.js",
-    "main.js.map": "/Solrak97.github.io/static/js/main.36705d21.chunk.js.map",
+    "main.css": "/Solrak97.github.io/static/css/main.bc402c53.chunk.css",
+    "main.js": "/Solrak97.github.io/static/js/main.68d9cee6.chunk.js",
+    "main.js.map": "/Solrak97.github.io/static/js/main.68d9cee6.chunk.js.map",
     "runtime-main.js": "/Solrak97.github.io/static/js/runtime-main.fa3b3ccd.js",
     "runtime-main.js.map": "/Solrak97.github.io/static/js/runtime-main.fa3b3ccd.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Solrak97.github.io/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.e82f16f7.chunk.js.map": "/Solrak97.github.io/static/js/3.e82f16f7.chunk.js.map",
     "index.html": "/Solrak97.github.io/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Solrak97.github.io/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.d0b244e3.chunk.css.map": "/Solrak97.github.io/static/css/main.d0b244e3.chunk.css.map",
+    "static/css/main.bc402c53.chunk.css.map": "/Solrak97.github.io/static/css/main.bc402c53.chunk.css.map",
     "static/js/2.8e9f84c0.chunk.js.LICENSE.txt": "/Solrak97.github.io/static/js/2.8e9f84c0.chunk.js.LICENSE.txt",
     "static/media/solrak.93c793d0.jpg": "/Solrak97.github.io/static/media/solrak.93c793d0.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.fa3b3ccd.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.8e9f84c0.chunk.js",
-    "static/css/main.d0b244e3.chunk.css",
-    "static/js/main.36705d21.chunk.js"
+    "static/css/main.bc402c53.chunk.css",
+    "static/js/main.68d9cee6.chunk.js"
   ]
 }
